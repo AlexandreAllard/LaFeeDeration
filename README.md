@@ -5,6 +5,12 @@
 - 💞️ I’m looking to collaborate on whatever looks cool
 - 📫 How to reach me : alrdalexandre@gmail.com
 
+My importants repos:
+-front-end experiments
+-threejs journey
+and more to come
+
+
 <!---
 LaFeeDeration/LaFeeDeration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
